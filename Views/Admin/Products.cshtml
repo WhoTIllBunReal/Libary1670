@@ -1,0 +1,118 @@
+﻿@model List<Libary1670.Models.Products> 
+
+@{
+	ViewData["Title"] = "Admin Page";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+
+}
+<!-- Input Data -->
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-secondary rounded h-100 p-4">
+        <h6 class="mb-4">Products Add</h6>
+        <form method="post" asp-action="Products">
+
+            <div class="mb-3">
+                <label for="Name" class="form-label">Book Name</label>
+                <input type="Name" class="form-control" id="Name" name="Name" value="" placeholder="Name">
+                <div id="emailHelp" class="form-text">
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="Price" class="form-label">Price</label>
+                <input type="Price" class="form-control" id="Price" name="Price" value="" placeholder="Price">
+            </div>
+
+
+            <div class="mb-3">
+                <label for="Img" class="form-label">Link</label>
+                <input type="Img" class="form-control" id="Img" name="Img" value="" placeholder="Img">
+            </div>
+
+
+            <div class="mb-3">
+                <label for="Category" class="form-label">Category</label>
+                <select class="form-select" id="Category" name="CategoryId" aria-label="Select category">
+                    <option value="">Select a category...</option>
+                    @foreach (var category in ViewBag.Category)
+                    {
+                        <option value="@category.Id">@category.NameCat</option>
+                    }
+                </select>
+            </div>
+
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+<!-- Sale & Revenue End -->
+<!-- Sales Chart Start -->
+<!-- <div class="container-fluid pt-4 px-4">
+
+</div> -->
+<!-- Sales Chart End -->
+<!-- Recent Sales Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="bg-secondary text-center rounded p-4">
+        <div class="d-flex align-items-center justify-content-between mb-4">
+            <h6 class="mb-0">Products List</h6>
+            <a href="">Show All</a>
+        </div>
+        <div class="table-responsive">
+            <table class="table text-start align-middle table-bordered table-hover mb-0">
+                <thead>
+                    <tr class="text-white">
+                        <th scope="col">Book Name</th>
+                        <th scope="col">Category</th>
+                        <th scope="col">Prices</th>
+                        <th scope="col">img</th>
+                        <th scope="col">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @{
+                                    <!-- Phần này khó vl (nhớ xoá cmt rồi nộp bài) -->
+                                    if (ViewBag.Category != null)
+                                    {
+                                        foreach (var category in ViewBag.Category)
+                                        {
+                                            if (category.Id == item.CategoryId)
+                                            {
+                                                @category.NameCat
+                                                break;
+                                            }
+                                        }
+                                    }
+                                }
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Price) $
+                            </td>
+                            <td>
+                                <a href="@Html.DisplayFor(modelItem => item.Img)"><img src="@Html.DisplayFor(modelItem => item.Img)" width="70px" height="70px"></a>
+                                
+                            </td>
+                            <td>
+                                <a class="btn btn-sm btn-primary" asp-action="ProductDetails" asp-route-id="@item.Id">Details</a>
+                            </td>
+                            <td>
+                                <a class="btn btn-sm btn-primary" asp-action="Details" asp-route-id="@item.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+<!-- Recent Sales End -->
+<!-- Widgets Start -->
+<!-- Widgets End -->
