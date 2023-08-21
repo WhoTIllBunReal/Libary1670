@@ -95,7 +95,7 @@ namespace Libary1670.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> ProductDetails(int id, [Bind("Id,Name,CategoryID,Img,Price")] Products products)
+        public async Task<IActionResult> ProductDetails(int id, [Bind("Id,Name,CategoryId,Img,Price")] Products products)
         {
             if (id != products.Id)
             {

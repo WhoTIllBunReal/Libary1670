@@ -8,6 +8,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\AdminContronller\**" />
+    <Compile Remove="Views\Products\**" />
+    <Content Remove="Views\AdminContronller\**" />
+    <Content Remove="Views\Products\**" />
+    <EmbeddedResource Remove="Views\AdminContronller\**" />
+    <EmbeddedResource Remove="Views\Products\**" />
+    <None Remove="Views\AdminContronller\**" />
+    <None Remove="Views\Products\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="7.0.9" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.10" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="7.0.10" />
@@ -17,11 +28,6 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="7.0.9" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Views\AdminContronller\" />
-    <Folder Include="Views\Products\" />
   </ItemGroup>
 
 </Project>

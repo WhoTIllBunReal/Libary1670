@@ -41,8 +41,8 @@
 
 
                                 <div class="col-md-12 form-group p_star">
-                                    <label for="Category" class="form-label">Category</label>
-                                    <select class="form-select" id="Category" name="CategoryId" aria-label="Select category">
+                                    <label asp-for="CategoryId" for="Category" class="form-label">Category</label>
+                                    <select asp-for="CategoryId" class="form-select" id="Category" name="CategoryId" aria-label="Select category">
                                         @foreach (var category in ViewBag.Category)
                                         {
                                             <option value="@category.Id">@category.NameCat</option>
