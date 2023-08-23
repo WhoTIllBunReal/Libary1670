@@ -40,6 +40,11 @@
                                     <span asp-validation-for="Input.Email" class="text-danger"></span>
                                 </div>
                                 <div class="col-md-12 form-group p_star">
+                                   @Html.DropDownList("Input.Role", new SelectList(Model.Roles,"Name", "Name"),new {@class = "form-control"})
+                                   <label asp-for= "Input.Role" >Role</label>
+                                   <span asp-validation-for="Input.Role" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-12 form-group p_star">
                                     <label asp-for="Input.Password">Password:</label>
                                     <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
                                     <span asp-validation-for="Input.Password" class="text-danger"></span>

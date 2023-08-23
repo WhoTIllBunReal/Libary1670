@@ -1,1887 +1,1887 @@
 {
   "Files": [
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Libary1670.bundle.scp.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Libary1670.bundle.scp.css",
       "PackagePath": "staticwebassets\\Libary1670.bundle.scp.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\css\\style.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\css\\style.css",
       "PackagePath": "staticwebassets\\Admin\\css\\style.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\img\\testimonial-1.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\Admin\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\img\\testimonial-2.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\Admin\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\img\\user.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\img\\user.jpg",
       "PackagePath": "staticwebassets\\Admin\\img\\user.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\js\\main.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\js\\main.js",
       "PackagePath": "staticwebassets\\Admin\\js\\main.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\chart\\chart.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\chart\\chart.min.js",
       "PackagePath": "staticwebassets\\Admin\\lib\\chart\\chart.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\easing\\easing.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\easing\\easing.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\LICENSE",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\waypoints\\links.php",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\lib\\waypoints\\waypoints.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\all.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\all.css",
       "PackagePath": "staticwebassets\\css\\all.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\animate.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\css\\animate.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\aos.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\aos.css",
       "PackagePath": "staticwebassets\\css\\aos.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\flaticon.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\flaticon.css",
       "PackagePath": "staticwebassets\\css\\flaticon.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\fontawesome-all.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\fontawesome-all.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\lightslider.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\lightslider.min.css",
       "PackagePath": "staticwebassets\\css\\lightslider.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\magnific-popup.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\css\\magnific-popup.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\nice-select.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\owl.carousel.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\price_rangs.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\price_rangs.css",
       "PackagePath": "staticwebassets\\css\\price_rangs.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\slick-theme.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\slick-theme.min.css",
       "PackagePath": "staticwebassets\\css\\slick-theme.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\slick.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\slick.css",
       "PackagePath": "staticwebassets\\css\\slick.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\slick.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\slick.min.css",
       "PackagePath": "staticwebassets\\css\\slick.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\slicknav.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\slicknav.css",
       "PackagePath": "staticwebassets\\css\\slicknav.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\style.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\style.map",
       "PackagePath": "staticwebassets\\css\\style.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\swiper.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\swiper.min.css",
       "PackagePath": "staticwebassets\\css\\swiper.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\css\\themify-icons.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\css\\themify-icons.css",
       "PackagePath": "staticwebassets\\css\\themify-icons.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\Flaticon.eot",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\Flaticon.eot",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\Flaticon.svg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\Flaticon.svg",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\Flaticon.ttf",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\Flaticon.ttf",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\Flaticon.woff",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\Flaticon.woff",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\Flaticon.woff2",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\Flaticon.woff2",
       "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\_flaticon.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\_flaticon.scss",
       "PackagePath": "staticwebassets\\fonts\\_flaticon.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\flaticon.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\flaticon.css",
       "PackagePath": "staticwebassets\\fonts\\flaticon.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\flaticon.html",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\flaticon.html",
       "PackagePath": "staticwebassets\\fonts\\flaticon.html"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\themify.eot",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\fonts\\themify.eot"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\themify.svg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\fonts\\themify.svg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\themify.ttf",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\fonts\\themify.ttf"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\fonts\\themify.woff",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\fonts\\themify.woff"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\about\\about_lft.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\about\\about_lft.png",
       "PackagePath": "staticwebassets\\img\\about\\about_lft.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\about\\about_right.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\about\\about_right.png",
       "PackagePath": "staticwebassets\\img\\about\\about_right.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\adapt_icon\\1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\adapt_icon\\1.png",
       "PackagePath": "staticwebassets\\img\\adapt_icon\\1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\adapt_icon\\1.svg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\adapt_icon\\1.svg",
       "PackagePath": "staticwebassets\\img\\adapt_icon\\1.svg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\adapt_icon\\2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\adapt_icon\\2.png",
       "PackagePath": "staticwebassets\\img\\adapt_icon\\2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\adapt_icon\\3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\adapt_icon\\3.png",
       "PackagePath": "staticwebassets\\img\\adapt_icon\\3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\author\\author_1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\author\\author_1.png",
       "PackagePath": "staticwebassets\\img\\author\\author_1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\author\\author_2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\author\\author_2.png",
       "PackagePath": "staticwebassets\\img\\author\\author_2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\author\\author_3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\author\\author_3.png",
       "PackagePath": "staticwebassets\\img\\author\\author_3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\banner\\img.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\banner\\img.png",
       "PackagePath": "staticwebassets\\img\\banner\\img.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\add.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\add.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\add.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\author.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\author.png",
       "PackagePath": "staticwebassets\\img\\blog\\author.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\blog1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\blog1.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\blog2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\blog2.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\blog3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\blog3.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\blog_1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\blog_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\blog_2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\blog_2.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\blog_3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\blog_3.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\blog_4.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\blog_4.png",
       "PackagePath": "staticwebassets\\img\\blog\\blog_4.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\c1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\c1.png",
       "PackagePath": "staticwebassets\\img\\blog\\c1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\c2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\c2.png",
       "PackagePath": "staticwebassets\\img\\blog\\c2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\c3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\c3.png",
       "PackagePath": "staticwebassets\\img\\blog\\c3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\cat-post\\cat-post-1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-1.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\cat-post\\cat-post-2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-2.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\cat-post\\cat-post-3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-3.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\feature-img1.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\feature-img1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\feature-img1.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\learn_about_bg.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\learn_about_bg.png",
       "PackagePath": "staticwebassets\\img\\blog\\learn_about_bg.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\next.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\next.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\next.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\popular-post\\post1.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\popular-post\\post1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post1.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\popular-post\\post2.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\popular-post\\post2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post2.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\popular-post\\post3.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\popular-post\\post3.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post3.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\popular-post\\post4.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\popular-post\\post4.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post4.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\post-img1.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\post-img1.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\post-img1.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\post-img2.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\post-img2.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\post-img2.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\prev.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\prev.jpg",
       "PackagePath": "staticwebassets\\img\\blog\\prev.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\single_blog_1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\single_blog_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\single_blog_2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\single_blog_2.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\single_blog_3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\single_blog_3.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\single_blog_4.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\single_blog_4.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\single_blog_5.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\single_blog_5.png",
       "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\blog\\slide_thumb_1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\blog\\slide_thumb_1.png",
       "PackagePath": "staticwebassets\\img\\blog\\slide_thumb_1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\comment\\comment_1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\comment\\comment_1.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\comment\\comment_2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\comment\\comment_2.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\comment\\comment_3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\comment\\comment_3.png",
       "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\a.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\a.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\a2.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\a2.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\d.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\d.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\disabled-check.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\disabled-check.png",
       "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\disabled-radio.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\disabled-radio.png",
       "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\f1.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\f1.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\f2.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\f2.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\f3.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\f3.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\f4.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\f4.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\f5.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\f5.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\f6.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\f6.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\f7.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\f7.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\f8.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\f8.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\g1.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\g1.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\g2.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\g2.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\g3.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\g3.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\g4.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\g4.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\g5.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\g5.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\g6.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\g6.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\g7.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\g7.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\g8.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\g8.jpg",
       "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\primary-check.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\primary-check.png",
       "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\primary-radio.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\primary-radio.png",
       "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\success-check.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\success-check.png",
       "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\success-radio.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\success-radio.png",
       "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\user1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\user1.png",
       "PackagePath": "staticwebassets\\img\\elements\\user1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\elements\\user2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\elements\\user2.png",
       "PackagePath": "staticwebassets\\img\\elements\\user2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\favicon.ico",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\favicon.ico",
       "PackagePath": "staticwebassets\\img\\favicon.ico"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\1.png",
       "PackagePath": "staticwebassets\\img\\gallery\\1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\2.png",
       "PackagePath": "staticwebassets\\img\\gallery\\2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\3.png",
       "PackagePath": "staticwebassets\\img\\gallery\\3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\card1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\card1.png",
       "PackagePath": "staticwebassets\\img\\gallery\\card1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\card2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\card2.png",
       "PackagePath": "staticwebassets\\img\\gallery\\card2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\choce_watch1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\choce_watch1.png",
       "PackagePath": "staticwebassets\\img\\gallery\\choce_watch1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\choce_watch2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\choce_watch2.png",
       "PackagePath": "staticwebassets\\img\\gallery\\choce_watch2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\gallery01.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\gallery01.png",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery01.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\gallery1.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\gallery1.jpg",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery1.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\gallery1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\gallery1.png",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\gallery2.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\gallery2.jpg",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery2.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\gallery2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\gallery2.png",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\gallery3.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\gallery3.jpg",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery3.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\gallery3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\gallery3.png",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\gallery4.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\gallery4.jpg",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery4.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\gallery4.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\gallery4.png",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery4.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\gallery5.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\gallery5.jpg",
       "PackagePath": "staticwebassets\\img\\gallery\\gallery5.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\new_product1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\new_product1.png",
       "PackagePath": "staticwebassets\\img\\gallery\\new_product1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\new_product2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\new_product2.png",
       "PackagePath": "staticwebassets\\img\\gallery\\new_product2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\new_product3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\new_product3.png",
       "PackagePath": "staticwebassets\\img\\gallery\\new_product3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\popular1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\popular1.png",
       "PackagePath": "staticwebassets\\img\\gallery\\popular1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\popular2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\popular2.png",
       "PackagePath": "staticwebassets\\img\\gallery\\popular2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\popular3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\popular3.png",
       "PackagePath": "staticwebassets\\img\\gallery\\popular3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\popular4.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\popular4.png",
       "PackagePath": "staticwebassets\\img\\gallery\\popular4.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\popular5.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\popular5.png",
       "PackagePath": "staticwebassets\\img\\gallery\\popular5.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\popular6.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\popular6.png",
       "PackagePath": "staticwebassets\\img\\gallery\\popular6.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\sectin_bg1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\sectin_bg1.png",
       "PackagePath": "staticwebassets\\img\\gallery\\sectin_bg1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\gallery\\vidoe_more.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\gallery\\vidoe_more.png",
       "PackagePath": "staticwebassets\\img\\gallery\\vidoe_more.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\hero\\Industries_hero.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\hero\\Industries_hero.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\Industries_hero.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\hero\\about_hero.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\hero\\about_hero.png",
       "PackagePath": "staticwebassets\\img\\hero\\about_hero.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\hero\\category.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\hero\\category.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\category.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\hero\\contact_hero.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\hero\\contact_hero.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\contact_hero.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\hero\\gallery_hero.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\hero\\gallery_hero.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\gallery_hero.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\hero\\hero_man.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\hero\\hero_man.png",
       "PackagePath": "staticwebassets\\img\\hero\\hero_man.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\hero\\services_hero.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\hero\\services_hero.jpg",
       "PackagePath": "staticwebassets\\img\\hero\\services_hero.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\hero\\watch.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\hero\\watch.png",
       "PackagePath": "staticwebassets\\img\\hero\\watch.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\logo\\logo.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\logo\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo\\logo.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\logo\\logo2_footer.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\logo\\logo2_footer.png",
       "PackagePath": "staticwebassets\\img\\logo\\logo2_footer.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\offers\\1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\offers\\1.png",
       "PackagePath": "staticwebassets\\img\\offers\\1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\offers\\2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\offers\\2.png",
       "PackagePath": "staticwebassets\\img\\offers\\2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\offers\\3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\offers\\3.png",
       "PackagePath": "staticwebassets\\img\\offers\\3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\our_blog\\blog-img1.jpg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\our_blog\\blog-img1.jpg",
       "PackagePath": "staticwebassets\\img\\our_blog\\blog-img1.jpg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\next.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\next.png",
       "PackagePath": "staticwebassets\\img\\post\\next.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\post_1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\post_1.png",
       "PackagePath": "staticwebassets\\img\\post\\post_1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\post_10.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\post_10.png",
       "PackagePath": "staticwebassets\\img\\post\\post_10.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\post_2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\post_2.png",
       "PackagePath": "staticwebassets\\img\\post\\post_2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\post_3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\post_3.png",
       "PackagePath": "staticwebassets\\img\\post\\post_3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\post_4.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\post_4.png",
       "PackagePath": "staticwebassets\\img\\post\\post_4.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\post_5.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\post_5.png",
       "PackagePath": "staticwebassets\\img\\post\\post_5.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\post_6.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\post_6.png",
       "PackagePath": "staticwebassets\\img\\post\\post_6.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\post_7.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\post_7.png",
       "PackagePath": "staticwebassets\\img\\post\\post_7.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\post_8.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\post_8.png",
       "PackagePath": "staticwebassets\\img\\post\\post_8.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\post_9.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\post_9.png",
       "PackagePath": "staticwebassets\\img\\post\\post_9.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\post\\preview.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\post\\preview.png",
       "PackagePath": "staticwebassets\\img\\post\\preview.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\prising\\1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\prising\\1.png",
       "PackagePath": "staticwebassets\\img\\prising\\1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\prising\\10.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\prising\\10.png",
       "PackagePath": "staticwebassets\\img\\prising\\10.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\prising\\2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\prising\\2.png",
       "PackagePath": "staticwebassets\\img\\prising\\2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\prising\\3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\prising\\3.png",
       "PackagePath": "staticwebassets\\img\\prising\\3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\prising\\4.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\prising\\4.png",
       "PackagePath": "staticwebassets\\img\\prising\\4.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\prising\\5.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\prising\\5.png",
       "PackagePath": "staticwebassets\\img\\prising\\5.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\prising\\6.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\prising\\6.png",
       "PackagePath": "staticwebassets\\img\\prising\\6.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\prising\\7.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\prising\\7.png",
       "PackagePath": "staticwebassets\\img\\prising\\7.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\prising\\8.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\prising\\8.png",
       "PackagePath": "staticwebassets\\img\\prising\\8.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\prising\\9.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\prising\\9.png",
       "PackagePath": "staticwebassets\\img\\prising\\9.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\service\\1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\service\\1.png",
       "PackagePath": "staticwebassets\\img\\service\\1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\service\\2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\service\\2.png",
       "PackagePath": "staticwebassets\\img\\service\\2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\service\\3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\service\\3.png",
       "PackagePath": "staticwebassets\\img\\service\\3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\service\\service_icon_1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\service\\service_icon_1.png",
       "PackagePath": "staticwebassets\\img\\service\\service_icon_1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\service\\service_icon_2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\service\\service_icon_2.png",
       "PackagePath": "staticwebassets\\img\\service\\service_icon_2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\service\\service_icon_3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\service\\service_icon_3.png",
       "PackagePath": "staticwebassets\\img\\service\\service_icon_3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\service\\service_icon_bg_1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\service\\service_icon_bg_1.png",
       "PackagePath": "staticwebassets\\img\\service\\service_icon_bg_1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\team\\1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\team\\1.png",
       "PackagePath": "staticwebassets\\img\\team\\1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\team\\2.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\team\\2.png",
       "PackagePath": "staticwebassets\\img\\team\\2.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\team\\3.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\team\\3.png",
       "PackagePath": "staticwebassets\\img\\team\\3.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\testmonial\\1.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\testmonial\\1.png",
       "PackagePath": "staticwebassets\\img\\testmonial\\1.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\img\\testmonial\\Homepage_testi.png",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\img\\testmonial\\Homepage_testi.png",
       "PackagePath": "staticwebassets\\img\\testmonial\\Homepage_testi.png"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\animated.headline.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\animated.headline.js",
       "PackagePath": "staticwebassets\\js\\animated.headline.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\aos.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\aos.js",
       "PackagePath": "staticwebassets\\js\\aos.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\cells-by-column.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\cells-by-column.js",
       "PackagePath": "staticwebassets\\js\\cells-by-column.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\contact.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\contact.js",
       "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\gmaps.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\gmaps.min.js",
       "PackagePath": "staticwebassets\\js\\gmaps.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery-1.12.1.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery-1.12.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.12.1.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.ajaxchimp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.counterup.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.counterup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.downCount.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.downCount.js",
       "PackagePath": "staticwebassets\\js\\jquery.downCount.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.easing.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.easing.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.form.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.form.js",
       "PackagePath": "staticwebassets\\js\\jquery.form.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.magnific-popup.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.magnific-popup.js",
       "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.nice-select.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.paroller.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.paroller.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.paroller.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.scrollUp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.slicknav.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.slicknav.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.sticky.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.sticky.js",
       "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\lightslider.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\lightslider.min.js",
       "PackagePath": "staticwebassets\\js\\lightslider.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\mail-script.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\mail-script.js",
       "PackagePath": "staticwebassets\\js\\mail-script.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\mixitup.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\mixitup.min.js",
       "PackagePath": "staticwebassets\\js\\mixitup.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\one-page-nav-min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\one-page-nav-min.js",
       "PackagePath": "staticwebassets\\js\\one-page-nav-min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\owl.carousel.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\plugins.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\plugins.js",
       "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\popper.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\price_rangs.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\price_rangs.js",
       "PackagePath": "staticwebassets\\js\\price_rangs.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\slick.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\stellar.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\stellar.js",
       "PackagePath": "staticwebassets\\js\\stellar.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\swiper.jquery.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\swiper.jquery.js",
       "PackagePath": "staticwebassets\\js\\swiper.jquery.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\swiper.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\swiper.min.js",
       "PackagePath": "staticwebassets\\js\\swiper.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\swiper_custom.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\swiper_custom.js",
       "PackagePath": "staticwebassets\\js\\swiper_custom.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\theme.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\theme.js",
       "PackagePath": "staticwebassets\\js\\theme.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
       "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\waypoints.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\waypoints.min.js",
       "PackagePath": "staticwebassets\\js\\waypoints.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\js\\wow.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\js\\wow.min.js",
       "PackagePath": "staticwebassets\\js\\wow.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_about_us.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_about_us.scss",
       "PackagePath": "staticwebassets\\scss\\_about_us.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_banner.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_banner.scss",
       "PackagePath": "staticwebassets\\scss\\_banner.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_best-product.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_best-product.scss",
       "PackagePath": "staticwebassets\\scss\\_best-product.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_best_seller.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_best_seller.scss",
       "PackagePath": "staticwebassets\\scss\\_best_seller.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_blog.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_blog.scss",
       "PackagePath": "staticwebassets\\scss\\_blog.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_blog_page.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_blog_page.scss",
       "PackagePath": "staticwebassets\\scss\\_blog_page.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_blog_part.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_blog_part.scss",
       "PackagePath": "staticwebassets\\scss\\_blog_part.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_bradcam.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_bradcam.scss",
       "PackagePath": "staticwebassets\\scss\\_bradcam.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_button.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_button.scss",
       "PackagePath": "staticwebassets\\scss\\_button.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_category.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_category.scss",
       "PackagePath": "staticwebassets\\scss\\_category.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_client_logo.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_client_logo.scss",
       "PackagePath": "staticwebassets\\scss\\_client_logo.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_client_review.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_client_review.scss",
       "PackagePath": "staticwebassets\\scss\\_client_review.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_color.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_color.scss",
       "PackagePath": "staticwebassets\\scss\\_color.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_common.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_common.scss",
       "PackagePath": "staticwebassets\\scss\\_common.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_confirmation_part.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_confirmation_part.scss",
       "PackagePath": "staticwebassets\\scss\\_confirmation_part.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_contact.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_contact.scss",
       "PackagePath": "staticwebassets\\scss\\_contact.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_copyright_part.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_copyright_part.scss",
       "PackagePath": "staticwebassets\\scss\\_copyright_part.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_cource_details.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_cource_details.scss",
       "PackagePath": "staticwebassets\\scss\\_cource_details.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_cta_part.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_cta_part.scss",
       "PackagePath": "staticwebassets\\scss\\_cta_part.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_elements.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_elements.scss",
       "PackagePath": "staticwebassets\\scss\\_elements.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_extend.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_extend.scss",
       "PackagePath": "staticwebassets\\scss\\_extend.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_feature_part.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_feature_part.scss",
       "PackagePath": "staticwebassets\\scss\\_feature_part.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_footer.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_footer.scss",
       "PackagePath": "staticwebassets\\scss\\_footer.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_gallery.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_gallery.scss",
       "PackagePath": "staticwebassets\\scss\\_gallery.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_h1-hero.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_h1-hero.scss",
       "PackagePath": "staticwebassets\\scss\\_h1-hero.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_headerMenu.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_headerMenu.scss",
       "PackagePath": "staticwebassets\\scss\\_headerMenu.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_instagram_photo.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_instagram_photo.scss",
       "PackagePath": "staticwebassets\\scss\\_instagram_photo.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_latest_products.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_latest_products.scss",
       "PackagePath": "staticwebassets\\scss\\_latest_products.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\_mixins.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_new-product.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_new-product.scss",
       "PackagePath": "staticwebassets\\scss\\_new-product.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_new_arrival.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_new_arrival.scss",
       "PackagePath": "staticwebassets\\scss\\_new_arrival.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_our_offer.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_our_offer.scss",
       "PackagePath": "staticwebassets\\scss\\_our_offer.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_overlay.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_overlay.scss",
       "PackagePath": "staticwebassets\\scss\\_overlay.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_popular-items.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_popular-items.scss",
       "PackagePath": "staticwebassets\\scss\\_popular-items.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_product.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_product.scss",
       "PackagePath": "staticwebassets\\scss\\_product.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_product_list.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_product_list.scss",
       "PackagePath": "staticwebassets\\scss\\_product_list.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_recent.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_recent.scss",
       "PackagePath": "staticwebassets\\scss\\_recent.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_review.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_review.scss",
       "PackagePath": "staticwebassets\\scss\\_review.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_services.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_services.scss",
       "PackagePath": "staticwebassets\\scss\\_services.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_shipping_details.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_shipping_details.scss",
       "PackagePath": "staticwebassets\\scss\\_shipping_details.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_shop-method.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_shop-method.scss",
       "PackagePath": "staticwebassets\\scss\\_shop-method.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_single_blog.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_single_blog.scss",
       "PackagePath": "staticwebassets\\scss\\_single_blog.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_single_product.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_single_product.scss",
       "PackagePath": "staticwebassets\\scss\\_single_product.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_special_cource.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_special_cource.scss",
       "PackagePath": "staticwebassets\\scss\\_special_cource.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_subscribe_part.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_subscribe_part.scss",
       "PackagePath": "staticwebassets\\scss\\_subscribe_part.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_team.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_team.scss",
       "PackagePath": "staticwebassets\\scss\\_team.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_testimonial.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_testimonial.scss",
       "PackagePath": "staticwebassets\\scss\\_testimonial.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_trending_items.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_trending_items.scss",
       "PackagePath": "staticwebassets\\scss\\_trending_items.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_variables.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\_variables.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_video_area.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_video_area.scss",
       "PackagePath": "staticwebassets\\scss\\_video_area.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\_view-list-grid.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\_view-list-grid.scss",
       "PackagePath": "staticwebassets\\scss\\_view-list-grid.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\scss\\style.scss",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\scss\\style.scss",
       "PackagePath": "staticwebassets\\scss\\style.scss"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Id": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\Mante\\OneDrive\\Documents\\GitHub\\Libary1670\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
     },
     {
