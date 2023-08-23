@@ -151,16 +151,19 @@ namespace Libary1670.Controllers
         {
             if (_context.Products == null)
             {
-                return Problem("Entity set 'ApplicationDbContext.Products'  is null.");
+                return Problem("Entity set 'ApplicationDbContext.Products' is null.");
             }
-            var products = await _context.Products.FindAsync(id);
-            if (products != null)
+
+            var product = await _context.Products.FirstOrDefaultAsync(m => m.Id == id);
+            if (product == null)
             {
-                _context.Products.Remove(products);
+                return NotFound();
             }
-            
+
+            _context.Products.Remove(product);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+
+            return RedirectToAction("Products");
         }
 
         private bool ProductsExists(int id)
