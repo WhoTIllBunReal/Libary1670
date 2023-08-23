@@ -2,8 +2,8 @@
 
 namespace Libary1670.Models
 {
-	public class ApplicationRole
-	{
-		public string? Description;
-	}
+    public class ApplicationRole: IdentityRole
+    {
+        public string? Description { get; set; }
+    }
 }
