@@ -61,10 +61,11 @@
                                     </li>
                                     @if (User.IsInRole("Administrator"))
                                     {
-                                        <li><a asp-area="" asp-controller="Admin" asp-action="Products"> Admin</a>
+                                        <li><a herf="#"> Admin</a>
                                             <ul class="submenu">
-                                                <li><a asp-area="" asp-controller="Admin" asp-action="CatAdd"> Category</a></li>
-                                                <li><a href=""> Product Details</a></li>
+                                                <li><a asp-area="" asp-controller="Admin" asp-action="CatAdd">Category Manage</a></li>
+                                                <li><a asp-controller="Admin" asp-action="Products">Product Manage</a></li>
+                                                <li><a href="">User Manage</a></li>
                                             </ul>
                                         </li>
                                     }
@@ -83,6 +84,7 @@
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                                             <a class="dropdown-item" asp-area="Identity" asp-page="/Account/Manage/Index">Edit User Information</a>
+                                        <a class="dropdown-item" asp-area="Identity" asp-controller="Carts" asp-action="Index">Cart</a>
                                             <a class="dropdown-item" asp-area="Identity" asp-page="/Account/Logout">Logout</a>
                                         </div>
                                     </div>

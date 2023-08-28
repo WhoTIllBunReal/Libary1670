@@ -1,8 +1,8 @@
 ﻿@model List<Libary1670.Models.Category>
 
 @{
-	ViewData["Title"] = "Admin Page";
-	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    ViewData["Title"] = "Admin Page";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 <!-- Input Data -->
 <div class="container-fluid pt-4 px-4">
@@ -33,7 +33,6 @@
             <table class="table text-start align-middle table-bordered table-hover mb-0">
                 <thead>
                     <tr class="text-white">
-                        <th scope="col">ID</th>
                         <th scope="col">Category</th>
                     </tr>
                 </thead>
@@ -42,13 +41,12 @@
                     {
                         <tr>
                             <td>
-                                @Html.DisplayFor(modelItem => item.Id)
-                            </td>
-                            <td>
                                 @Html.DisplayFor(modelItem => item.NameCat)
                             </td>
                             <td>
-                                <a class="btn btn-sm btn-primary" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                                <form method="post" asp-action="CatDelete" asp-route-id="@item.Id">
+                                    <button type="submit" class="btn btn-sm btn-primary">Delete</button>
+                                </form>
                             </td>
                         </tr>
                     }

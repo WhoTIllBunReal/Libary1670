@@ -166,6 +166,52 @@ namespace Libary1670.Controllers
             return RedirectToAction("Products");
         }
 
+        public async Task<IActionResult> CatDelete(int? id)
+        {
+            if (id == null || _context.category == null)
+            {
+                return NotFound();
+            }
+
+            var category = await _context.category
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (category == null)
+            {
+                return NotFound();
+            }
+
+            var Products = await _context.Products
+                .Where(m => m.CategoryId == category.Id)
+                .ToListAsync();
+            if (Products.Count > 0) 
+            {
+                return RedirectToAction("CatAdd", new { error = "Cannot Delete Category that has been assigned by a product." });
+            }
+
+
+            _context.category.Remove(category);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("CatAdd");
+        }
+
+        [HttpPost, ActionName("DeleteCat")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteCat(int id)
+        {
+            if (_context.category == null)
+            {
+                return Problem("Invalid");
+            }
+
+            var Category = await _context.category.FirstOrDefaultAsync(m => m.Id == id);
+            if(Category == null)
+            {
+                return NotFound();
+            }
+            _context.category.Remove(Category);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("CatAdd");
+        }
         private bool ProductsExists(int id)
         {
           return (_context.Products?.Any(e => e.Id == id)).GetValueOrDefault();
