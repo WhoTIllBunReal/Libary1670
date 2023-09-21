@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BiFi4l3sAr3dDSXgM/g4QswSvynYCL75L46WE4hEKBPW0tMp5AOOPrAf2koSQVnHkHzbmLH56IieYbNbiB5YMA==",
+  "dgSpecHash": "i/7oh7MnsTInSv41BedIS11VhlbsxXBswZBzlwMMHmKh/5IsUMbeiQJRCZHH3V0SDhBa4JqPwxIZJ7GPBgALdQ==",
   "success": true,
-  "projectFilePath": "D:\\GreenCode\\New folder\\Libary1670\\Libary1670\\Libary1670.csproj",
+  "projectFilePath": "D:\\GreenCode\\Libary1670\\Libary1670.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -104,8 +104,11 @@
                                 <a class="btn btn-sm btn-primary" asp-action="ProductDetails" asp-route-id="@item.Id">Details</a>
                             </td>
                             <td>
-                                <a class="btn btn-sm btn-primary" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                <form method="post" asp-action="Delete" asp-route-id="@item.Id">
+                                    <button type="submit" class="btn btn-sm btn-primary">Delete</button>
+                                </form>
                             </td>
+                            
                         </tr>
                     }
                 </tbody>
